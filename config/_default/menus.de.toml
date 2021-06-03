@@ -20,7 +20,7 @@ url = "about"
 weight = 3
 
 [[main]]
-name = "Kontact"
+name = "Kontakt"
 url = "contact"
 weight = 4
 
