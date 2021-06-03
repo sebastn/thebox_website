@@ -5,5 +5,5 @@ banner:
   button:
     enable : true
     label : "Start Working Out"
-    link : "workout"
+    link : "de/workout"
 ---
