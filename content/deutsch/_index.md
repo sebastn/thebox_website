@@ -1,9 +1,7 @@
 ---
-title: "Training für heute"
-subtitle: ""
-# meta description
-description: "Daily Workout"
-draft: false
----
 
-{{< youtube id="QiuJ3ZFAiBg" title="Low Impact Workout" autoplay="true" >}}
+####################### Banner #########################
+banner:
+  title : ""Daily Workout""
+
+{{< youtube id="1NqIoP0a4Qs" title="12 min.✴️ "schmerzfreier unterer Rücken", ohne Geräte" autoplay="true" >}}

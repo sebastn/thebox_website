@@ -6,4 +6,4 @@ description: "Daily Workout"
 draft: false
 ---
 
-{{< youtube id="QiuJ3ZFAiBg" title="Low Impact Workout" autoplay="true" >}}
+{{< youtube id="1NqIoP0a4Qs" title="12 min.✴️ "schmerzfreier unterer Rücken", ohne Geräte" autoplay="true" >}}
