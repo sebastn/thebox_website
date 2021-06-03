@@ -15,12 +15,12 @@ weight = 2
 #weight = 3
 
 [[main]]
-name = "About"
+name = "Impressum"
 url = "about"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "Kontakt"
 url = "contact"
 weight = 4
 
