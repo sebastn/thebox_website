@@ -1,0 +1,9 @@
+baseURL = "https://thebox.netlify.app"
+disqusShortname = ""
+googleAnalytics = ""
+paginate = "3"
+summaryLength = "15"
+theme = "bigspring"
+title = "Bigspring Hugo"
+[markup.goldmark.renderer]
+unsafe = true
