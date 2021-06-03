@@ -5,8 +5,8 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog"
+name = "Workout"
+url = "workout"
 weight = 2
 
 #[[main]]
