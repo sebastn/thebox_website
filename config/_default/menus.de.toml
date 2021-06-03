@@ -1,12 +1,12 @@
 # main menu
-[[main]]
-name = "Home"
-url = "/"
-weight = 1
+#[[main]]
+#name = "Home"
+#url = "/"
+#weight = 1
 
 [[main]]
 name = "Workout"
-url = "workout"
+url = "/"
 weight = 2
 
 #[[main]]
@@ -21,7 +21,7 @@ weight = 3
 
 [[main]]
 name = "Kontakt"
-url = "de/contact"
+url = "contact"
 weight = 4
 
 #[[main]]
