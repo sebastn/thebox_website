@@ -8,4 +8,4 @@ draft: false
 
 {{< youtube id="QiuJ3ZFAiBg" title="Low Impact Workout" autoplay="true" >}}
 
-{{ template "_internal/disqus.html" . }}
+{{ partial "disqus.html" . }}
