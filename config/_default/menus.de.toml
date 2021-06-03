@@ -6,7 +6,7 @@
 
 [[main]]
 name = "Workout"
-url = "/"
+url = "workout"
 weight = 2
 
 #[[main]]
