@@ -24,11 +24,6 @@ name = "FAQ"
 url = "faq"
 weight = 5
 
-[[main]]
-name = "Workout"
-url = "blog"
-weight = 6
-
 # footer menu left
 [[footer_left]]
 name = "About Us"
