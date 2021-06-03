@@ -7,5 +7,3 @@ draft: false
 ---
 
 {{< youtube id="QiuJ3ZFAiBg" title="Low Impact Workout" autoplay="true" >}}
-
-{{ partial "footer/disqus.html" . }}
