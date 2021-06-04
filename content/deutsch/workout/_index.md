@@ -6,4 +6,4 @@ description: "Daily Workout"
 draft: false
 ---
 
-{{< youtube id="QiuJ3ZFAiBg?autoplay=1" title="Low Impact Workout" autoplay="true" >}}
+{{< youtube id="QiuJ3ZFAiBg" title="Low Impact Workout" autoplay="true" >}}
